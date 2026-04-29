@@ -23,5 +23,5 @@ Python | AI APIs | Machine Learning | Automation
 - AI consulting
 
 📩 Contact:
-📧 aaryapokale422@gmail.com
+📧 aaryapokale422@gmail.com 
 📱 +91-9356805790
