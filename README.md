@@ -1,12 +1,26 @@
-- 👋 Hi, I’m @ap995
-- 👀 I’m interested in flirting with codes 
-- 🌱 I’m currently learning artificial intelligence
-- 💞️ I’m looking to collaborate on cyber crime ai
-- 📫 anyone can reach me through my gmail:aaryapokale422@gmail.com
-- 😄 Pronouns: just live life like its youre last one
-- ⚡ Fun fact:can read youre mind before you tell the thing on face
+👋 Hi, I'm @ap995
 
-<!---
-ap995/ap995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 AI Developer | Automation Enthusiast | Problem Solver
+
+🚀 What I Do:
+I build AI-powered solutions that help businesses automate workflows, improve efficiency, and scale faster.
+
+🔐 Focus Areas:
+- AI & Machine Learning
+- Automation Tools
+- Cybersecurity (AI-based threat detection)
+
+📂 Projects:
+- AI chatbot for business automation
+- Data scraping & workflow automation tools
+
+🛠 Tech Stack:
+Python | AI APIs | Machine Learning | Automation
+
+🤝 Open for:
+- Freelance projects
+- Startup collaborations
+- AI consulting
+
+📩 Contact:
+aaryapokale422@gmail.com
